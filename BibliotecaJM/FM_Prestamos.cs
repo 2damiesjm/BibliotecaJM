@@ -17,5 +17,9 @@ namespace BibliotecaJM
             this.usuarioActual = usuarioActual;            
             InitializeComponent();
         }
+        public void probando()
+        {
+
+        }
     }
 }
